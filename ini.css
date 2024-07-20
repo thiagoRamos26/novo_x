@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    color: white;
+}
+body{
+    margin: 0%;
+    background: black;
+}
+.x {
+    font-size: 40px;
+    margin-left: 5px;
+    margin-top: -80px;
+    border-right: 1px solid red;
+    margin-right: 70%;
+    display: block;
+}

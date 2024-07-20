@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    margin: 0%;
+    background-color: black;
+    background: black;
+}
+.para {
+    color: aqua;
+    border: 1px double rgb(94, 255, 255);
+    border-radius: 15px;
+    margin-right: 75px;
+    margin-left: 75px;
+}
+.segreto {
+    color: gray;
+    border-radius: 15px;
+    border: 1px solid rgb(155, 155, 155);
+    margin-right: 47px;
+    margin-left: 47px;
+}
+.aper {
+    border: 1px double whitesmoke;
+    border-radius: 17px;
+    margin-left: 80px;
+    margin-right: 80px;
+    color: white;
+    border: 0px solid white;
+}
+.bpular {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-decoration: none;
+    margin-left: 61px;
+    margin-right: 61px;
+}
+.bpular:hover {
+    color: black;
+    cursor: move;
+    margin-left: 50px;
+    margin-right: 50px;
+    transition: all 2s ease-in-out;
+    border: 3px solid black;
+    background: linear-gradient( to right, rgb(255, 255, 255),rgb(255, 255, 255),rgb(255,255,255),rgb(0, 0, 0),rgb(0, 0, 0));
+    border: 3px solid black;
+    border: 1px solid aqua;
+}
+.pular {
+    color: white;
+}
+.pular:hover {
+    color:rgb(0, 196, 196);
+    transition: all 2s ease-in-out;
+}
